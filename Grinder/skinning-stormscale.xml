@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Author  zerolimts -->
+<!-- Author : zerolimts -->
+<!-- Comment:
+This is my farm route for Stormscale 160 hr  making 100k a day set search radius to 20. Fly to Thunder Totem in High mountain.
+-->
 <GrinderProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GrinderZones>
     <GrinderZone>
