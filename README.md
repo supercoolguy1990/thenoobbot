@@ -1,2 +1,2 @@
 # thenoobbot
-Resources for the noob bot
+Resource library for profiles and resources for thenoobbot
